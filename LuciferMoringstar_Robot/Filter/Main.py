@@ -152,7 +152,7 @@ async def group(client, message):
         chat_id=message.chat.id,
         video="https://telegra.ph/file/c2c0ff4b927dcc50e7922.mp4",
         caption=f"""𝗛𝗲𝘆..❤‍🔥 <b>{message.from_user.mention}</b>
-<b>Movie Name-ൻ്റെ Spelling Correct ആണോ എന്ന് നോക്കണേ... അല്ലെങ്കിൽ Movie Release ആയിട്ടില്ല/ Movies Database-ൽ add ആക്കിയിട്ടില്ല Please Ask To the Admin ›› @BKC0001</b>
+<b>Movie Name-ൻ്റെ Spelling Correct ആണോ എന്ന് നോക്കണേ... അല്ലെങ്കിൽ Movie Release ആയിട്ടില്ല/ Movies Database-ൽ add ആക്കിയിട്ടില്ല Please Ask To the Admin ›› @albintko</b>
 
 <b>Please Check The Spelling Of The Movie Name... Or Ask Me ›› @BKC0001</b>""",
         reply_to_message_id=message.message_id)
@@ -303,7 +303,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         elif query.data == "help":
             buttons = [[
                 InlineKeyboardButton('💠 𝗝𝗼𝗶𝗻 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 💠', url='t.me/joinchat/9Mq2rjj9YDk0YmZh'),
-                InlineKeyboardButton('💞 𝗗𝗲𝘃 💞', url="https://t.me/BKC0001")
+                InlineKeyboardButton('💞 𝗗𝗲𝘃 💞', url="https://t.me/albintko")
                 ],[
                 InlineKeyboardButton('💠 𝗝𝗼𝗶𝗻 𝗚𝗿𝗼𝘂𝗽 💠', url=f'{TUTORIAL}')
                 ]]
