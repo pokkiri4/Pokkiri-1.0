@@ -122,7 +122,7 @@ async def start(bot, message):
                         InlineKeyboardButton("⚜️ 𝗔𝗱𝗱 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗖𝗵𝗮𝘁𝘀 ⚜️", url="https://t.me/jinn0_Bot?startgroup=botstart")
                     ],  
                     [
-                        InlineKeyboardButton("💞 𝗗𝗲𝘃 💞", url="https://t.me/BKC0001"),
+                        InlineKeyboardButton("💞 𝗗𝗲𝘃 💞", url="https://t.me/albintko"),
                         InlineKeyboardButton("𝗔𝗯𝗼𝘂𝘁 🚩", callback_data="about")
                     ],  
                     [
