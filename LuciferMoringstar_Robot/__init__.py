@@ -29,15 +29,15 @@ HELP = """
 """
 
 ABOUT = """
-›› Name : [𝖏𝖎𝖓𝖓](t.me/GD001_Bot)
+›› Name : [pokkiri](t.me/)
 
-›› Credits : [𝗕𝗼𝗯𝗶𝗻](t.me/BKC0001)
+›› Credits : [ALBIN](t.me/albintko)
 
-›› Editing : [𝗔𝗮𝗱𝗵𝗶](t.me/BKC0001)
+›› Editing : [ALBIN](t.me/albintko)
 
 ›› Language : Python3
 
 ›› Library : Pyrogram Asyncio 1.13.0
 
-›› Our Channel : [𝗟𝗮𝘁𝗲𝘀𝘁 𝗠𝗼𝘃𝗶𝗲𝘀 𝗛𝘂𝗯](t.me/joinchat/9Mq2rjj9YDk0YmZh)
+›› Our Channel : [𝗙𝗶𝗹𝗶𝗺 𝗖𝗹𝘂𝗯😜](https://t.me/filim_culb_1)
 """
